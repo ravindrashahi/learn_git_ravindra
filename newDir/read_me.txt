@@ -1,9 +1,9 @@
 this is a new directory
 this 
 is 
-a 
-new 
-change
+1/changedddd
+2/changedddd
+3/changedddd
 ...
 ...
 done
